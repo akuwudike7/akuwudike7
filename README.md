@@ -1,4 +1,7 @@
-About me
+About me        
+
+ <!-- to-do: add more details about me later  -->
+
 - 🔭 I’m currently working on Building a website for Anis Kitchen Business & Enterprise to promote the brand and expand its online presence
 - 🌱 I’m currently learning ... About website creation and Instagram strategies for growing a business profile.
 - 👯 I’m looking to collaborate on Projects related to food and catering, and potentially mobile food business initiatives.
@@ -7,5 +10,3 @@ About me
 - 📫 How to reach me: @aniskitchen_backup_page on Instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Anis Kitchen has reels showcasing the brand’s catering events and culinary work.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
